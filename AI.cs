@@ -3,10 +3,9 @@ using System;
 
 namespace TicTacToe_AI
 {
-
     class AI
     {
-        private bool debug = false;
+        private bool debug = false; // Enable to print debug information
 
         public AI() { }
 
